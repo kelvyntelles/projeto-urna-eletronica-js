@@ -18,6 +18,14 @@ let etapas = [
                 fotos: [
                     {url:'gato.jpg', legenda: 'vereador'}
                 ]
+            },
+            {
+                numero: '25087',
+                nome: 'Patrick Telles',
+                partido: 'DEFG',
+                fotos: [
+                    {url:'prefeito.jpg', legenda: 'vereador'}
+                ]
             }
         ],
     },
